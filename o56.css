@@ -1,0 +1,44 @@
+div{
+    position: fixed;
+    color: white;
+    font-size: 20px;
+}
+div:first-of-type{
+    left: 150px;
+    top:200px;
+}
+div:nth-of-type(2){
+    left: 150px;
+    top:240px;
+}
+div:nth-of-type(3){
+    left: 150px;
+    top:280px;
+}
+#startButton{
+    left: 150px;
+    top:330px;
+    width: 100px;
+    height: 30px;
+}
+#unswer{
+    left: 300px;
+    top:360px;
+    font-size: 40px;
+}
+input[type="text"]{
+    background: transparent;
+    color: white;
+    position: fixed;
+    border: 3px solid;
+    border-radius: 3px;
+    width: 100px;
+    height: 22px;
+    font-size:20px;
+    padding-left: 10px;
+    left: 150px;
+    top:300px;
+}
+dialog {
+    background-color: salmon;
+  }

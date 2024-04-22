@@ -1,0 +1,48 @@
+#name{
+    width:30%;
+    top: 125px;
+    position:fixed;
+    left:35%; 
+}
+#v1{
+    width: 28%;
+    position:fixed;
+    top:170px;
+    left:100px;
+}
+#v2{
+    width: 28%;
+    position:fixed;
+    top:320px;
+    left:100px;
+}
+#v3{
+    width: 28%;
+    position:fixed;
+    top:170px;
+    left:305px;
+}
+#v4{
+    width: 28%;
+    position:fixed;
+    top:320px;
+    left:305px;
+}
+#v5{
+    width: 28%;
+    position:fixed;
+    top:170px;
+    left:510px;
+}
+#v6{
+    width: 28%;
+    position:fixed;
+    top:320px;
+    left:510px;
+}
+#back{
+    width: 10%;
+    position:fixed;
+    top:100px;
+    left:675px;
+}

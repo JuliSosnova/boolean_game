@@ -1,0 +1,88 @@
+html{
+    background-image: url(magazin-2.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: contain;
+}
+#v2, #p2{
+    width: 10%;
+    position:fixed;
+    top:290px;
+    left:160px;
+}
+
+#v3, #p3{
+    width: 10%;
+    position:fixed;
+    top:170px;
+    left:380px;
+}
+
+#v4{
+    width: 10%;
+    position:fixed;
+    top:290px;
+    left:380px;
+}
+
+#v5, #p5{
+    width: 10%;
+    position:fixed;
+    top:170px;
+    left:600px;
+}
+#v6, #p6{
+    width: 10%;
+    position:fixed;
+    top:290px;
+    left:600px;
+}
+#back{
+    width: 10%;
+    position:fixed;
+    top:100px;
+    left:675px;
+}
+#legenda{
+    width: 13%;
+    position:fixed;
+    top:375px;
+    left:365px;
+}
+#p2{
+    width: 8%;
+    top:275px;
+    visibility: hidden;
+}
+#p3{
+    top:160px;
+    width: 11%;
+    visibility: hidden;
+}
+#p4{
+    position:fixed;
+    width: 23%;
+    top:245px;
+    left:320px;
+    visibility: hidden;
+}
+#p5{
+    top:155px;
+    width: 9%;
+    visibility: hidden;
+}
+#p6{
+    top:275px;
+    width: 13%;
+    visibility: hidden;
+}
+#p1{
+    position:fixed;
+    width: 5.5%;
+    top:170px;
+    left:170px;
+}

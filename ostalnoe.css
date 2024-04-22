@@ -1,0 +1,22 @@
+html{
+    background-image: url(ekran.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: contain;
+}
+#pantich{
+  position:fixed;
+  width: 170px;
+  left:0px;
+  top:300px;
+}
+#pan{
+  position:fixed;
+  width: 200px;
+  left:650px;
+  top: 250px;
+}

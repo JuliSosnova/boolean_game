@@ -1,0 +1,39 @@
+body{
+  font: italic small-caps bold 16px/2 cursive ;
+}
+#zagolovok{
+  position: fixed;
+  left: 150px;
+  top:90px;
+  color: white;
+  text-decoration: underline;
+}
+#back{
+  width: 10%;
+  position:fixed;
+  top:100px;
+  left:675px;
+}
+button{
+  background-color: rgba(255, 255, 255, 0);
+  position: fixed;
+  font-size: 15px;
+  color: white;
+  border: 3px solid;
+  border-radius: 3px;
+}
+h2{
+  position: fixed;
+  left: 150px;
+  top:150px;
+  color: white;
+  font-size: 20px;
+ 
+}
+h3{
+  position: fixed;
+  left: 150px;
+  top:220px;
+  color: white;
+  font-size: 15px;
+}

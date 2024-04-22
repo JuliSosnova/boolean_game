@@ -1,0 +1,59 @@
+html{
+    background-image: url(fon.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: contain;
+}
+#party{
+    position:fixed;
+    bottom:0px;
+    left:0px;
+    width:100%;
+    
+}
+#dgifga{
+  width:70%;
+  position:fixed;
+  bottom:0px;
+  left:0px;
+}
+#name{
+  width:30%;
+  top: 210px;
+  position:fixed;
+  left:35%; 
+}
+
+#calc{
+  width:25%;
+  top: 300px;
+  position:fixed;
+  right: 37%;
+}
+#achivki{
+  top: 360px;
+  position:fixed;
+  right: 560px;
+}
+#we{
+  width:30%;
+  top: 385px;
+  position:fixed;
+  left: 370px;
+}
+#play{
+  width:20%;
+  top: 250px;
+  position:fixed;
+  right: 40%;
+}
+#p{
+  width: 15%;
+  position:fixed;
+  left: 50px;
+  top: 260px;
+}

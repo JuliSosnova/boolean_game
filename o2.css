@@ -1,0 +1,56 @@
+textarea{
+    background-color: rgba(255, 255, 255, 0);
+    position: fixed;
+    left: 150px;
+    top:330px;
+    font-size: 25px;
+    font: bold ;
+    color: white;
+    width: 400px;
+    height: 90px;
+}
+label{
+    position: fixed;
+    color: white;
+    font-size: 20px;
+    left: 150px;
+}
+input[type="text"]{
+    background: transparent;
+    color: white;
+    position: fixed;
+    border: 3px solid;
+    border-radius: 3px;
+    width: 100px;
+    height: 20px;
+    font-size:20px;
+    padding-left: 10px
+}
+input:first-of-type{
+    left: 350px;
+    top:175px;  
+}
+input:nth-of-type(2){
+    left: 450px;
+    top:225px;  
+}
+label:first-of-type{
+    top:170px;
+}
+label:nth-of-type(3){
+    top:220px;
+}
+label:nth-of-type(2){
+    top:270px;
+}
+form{
+    color: white;
+    position: fixed;
+    left: 400px;
+    top:270px;
+    font-size:20px;
+}
+button{
+    left: 500px;
+    top:270px;
+}
